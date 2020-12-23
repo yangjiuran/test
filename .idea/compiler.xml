@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaService" />
+        <module name="Hotword_Springcloud_Nacos_ConsumerDemo" />
+        <module name="LeeTCode" />
+        <module name="service02" />
+        <module name="MybatisPLus" />
+        <module name="sample-txc-simple" />
+        <module name="ISC" />
+        <module name="Hotword_Springcloud_Nacos_Demo" />
+        <module name="constuct" />
+        <module name="kafka" />
+        <module name="service01" />
+        <module name="Fastdfs_test" />
+        <module name="JDK14_test" />
+        <module name="Hotword_Springcloud_Nacos_Demo (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="constuct" target="1.5" />
+      <module name="EurekaService" target="1.8" />
+      <module name="Fastdfs_test" target="1.8" />
+      <module name="Hotword_Springcloud_Nacos_ConsumerDemo" target="1.8" />
+      <module name="Hotword_Springcloud_Nacos_Demo" target="1.8" />
+      <module name="Hotword_Springcloud_Nacos_Demo (1)" target="1.8" />
+      <module name="ISC" target="1.8" />
+      <module name="JDK14_test" target="1.8" />
+      <module name="kafka" target="1.8" />
+      <module name="LeeTCode" target="1.8" />
+      <module name="MybatisPLus" target="1.8" />
+      <module name="sample-txc-simple" target="1.7" />
+      <module name="service01" target="1.8" />
+      <module name="service02" target="1.8" />
+      <module name="test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EurekaService" options="-parameters" />
+      <module name="Fastdfs_test" options="-parameters" />
+      <module name="Hotword_Springcloud_Nacos_ConsumerDemo" options="-parameters" />
+      <module name="Hotword_Springcloud_Nacos_Demo" options="-parameters" />
+      <module name="ISC" options="-parameters" />
+      <module name="JDK14_test" options="-parameters" />
+      <module name="LeeTCode" options="-parameters" />
+      <module name="MybatisPLus" options="-parameters" />
+      <module name="kafka" options="-parameters" />
+      <module name="service01" options="-parameters" />
+      <module name="service02" options="-parameters" />
+    </option>
+  </component>
+</project>

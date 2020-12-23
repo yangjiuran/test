@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-tx:3.2.17.RELEASE">
+    <CLASSES>
+      <root url="jar://I:/DDSRespository/apache-maven-3.6.0/apache-maven-3.6.0/maven-repository/org/springframework/spring-tx/3.2.17.RELEASE/spring-tx-3.2.17.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://I:/DDSRespository/apache-maven-3.6.0/apache-maven-3.6.0/maven-repository/org/springframework/spring-tx/3.2.17.RELEASE/spring-tx-3.2.17.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://I:/DDSRespository/apache-maven-3.6.0/apache-maven-3.6.0/maven-repository/org/springframework/spring-tx/3.2.17.RELEASE/spring-tx-3.2.17.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

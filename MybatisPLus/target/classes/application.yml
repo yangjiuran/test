@@ -1,0 +1,9 @@
+# DataSource Config
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@192.168.80.7:1521:orcl
+    username: scott
+    password: tiger
+server:
+  port: 8088

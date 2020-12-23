@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="164.0">com.yjr.factory.pizza.BJPapperPizza</node>
+    <node x="209.0" y="164.0">com.yjr.factory.pizza.LDPapperPizza</node>
+    <node x="418.0" y="164.0">com.yjr.factory.pizza.LDChessesPizza</node>
+    <node x="313.5" y="0.0">com.yjr.factory.pizza.Pizza</node>
+    <node x="627.0" y="164.0">com.yjr.factory.pizza.BJChessesPizza</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.yjr.factory.pizza.BJChessesPizza" target="com.yjr.factory.pizza.Pizza">
+      <point x="0.0" y="-83.5" />
+      <point x="721.5" y="134.0" />
+      <point x="478.875" y="134.0" />
+      <point x="70.875" y="57.0" />
+    </edge>
+    <edge source="com.yjr.factory.pizza.LDPapperPizza" target="com.yjr.factory.pizza.Pizza">
+      <point x="0.0" y="-83.5" />
+      <point x="303.5" y="144.0" />
+      <point x="384.375" y="144.0" />
+      <point x="-23.625" y="57.0" />
+    </edge>
+    <edge source="com.yjr.factory.pizza.BJPapperPizza" target="com.yjr.factory.pizza.Pizza">
+      <point x="0.0" y="-83.5" />
+      <point x="94.5" y="134.0" />
+      <point x="337.125" y="134.0" />
+      <point x="-70.875" y="57.0" />
+    </edge>
+    <edge source="com.yjr.factory.pizza.LDChessesPizza" target="com.yjr.factory.pizza.Pizza">
+      <point x="0.0" y="-83.5" />
+      <point x="512.5" y="144.0" />
+      <point x="431.625" y="144.0" />
+      <point x="23.625" y="57.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="569.0" y="200.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

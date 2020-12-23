@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaService/EurekaService.iml" filepath="$PROJECT_DIR$/EurekaService/EurekaService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fastdfs_test/Fastdfs_test.iml" filepath="$PROJECT_DIR$/Fastdfs_test/Fastdfs_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hotword_Springcloud_Nacos_ConsumerDemo/Hotword_Springcloud_Nacos_ConsumerDemo.iml" filepath="$PROJECT_DIR$/Hotword_Springcloud_Nacos_ConsumerDemo/Hotword_Springcloud_Nacos_ConsumerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hotword_Springcloud_Nacos_Demo/Hotword_Springcloud_Nacos_Demo.iml" filepath="$PROJECT_DIR$/Hotword_Springcloud_Nacos_Demo/Hotword_Springcloud_Nacos_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISC/ISC.iml" filepath="$PROJECT_DIR$/ISC/ISC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDK14_test/JDK14_test.iml" filepath="$PROJECT_DIR$/JDK14_test/JDK14_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeeTCode/LeeTCode.iml" filepath="$PROJECT_DIR$/LeeTCode/LeeTCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MybatisPLus/MybatisPLus.iml" filepath="$PROJECT_DIR$/MybatisPLus/MybatisPLus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constuct/constuct.iml" filepath="$PROJECT_DIR$/constuct/constuct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
+      <module fileurl="file://G:/Code/sample-txc-simple/sample-txc-simple/sample-txc-simple.iml" filepath="G:/Code/sample-txc-simple/sample-txc-simple/sample-txc-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service01/service01.iml" filepath="$PROJECT_DIR$/service01/service01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service02/service02.iml" filepath="$PROJECT_DIR$/service02/service02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+    </modules>
+  </component>
+</project>

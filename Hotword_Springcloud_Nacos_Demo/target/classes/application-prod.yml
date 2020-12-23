@@ -1,0 +1,6 @@
+spring:
+  aop:
+    #使用CGLIB动态代理织入增强
+    proxy-target-class: true
+logging:
+  file: log/service.log

@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+      config:
+        server-addr: 127.0.0.1:8848
+        file-extension: yaml
+        namespace: 0ad27061-3e92-4c52-99ee-a0d7d86e0276   #配置空间的id，在配置管理里面可以看到
