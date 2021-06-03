@@ -11,6 +11,25 @@
 
     <artifactId>service01</artifactId>
     <dependencies>
+        <!--dataway支持-->
+        <!--hasor-spring 负责 Spring 和 Hasor 框架之间的整合。-->
+        <dependency>
+            <groupId>net.hasor</groupId>
+            <artifactId>hasor-spring</artifactId>
+            <version>4.1.4</version>
+        </dependency>
+        <dependency>
+            <groupId>net.hasor</groupId>
+            <artifactId>hasor-dataway</artifactId>
+            <!-- 4.1.4 包存在UI资源缺失问题 -->
+            <version>4.1.4</version>
+        </dependency>
+        <dependency>
+            <groupId>net.hasor</groupId>
+            <artifactId>hasor-web</artifactId>
+            <version>4.1.4</version><!-- 查看最新版本：https://mvnrepository.com/artifact/net.hasor/hasor-web -->
+        </dependency>
+
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-openfeign</artifactId>

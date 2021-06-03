@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Documents/WeChat Files/yangjiuran/FileStorage/File/2020-12/Ahyw_whyc_client/Ahyw_whyc_client/Ahyw_whyc_client.iml" filepath="$PROJECT_DIR$/../../Documents/WeChat Files/yangjiuran/FileStorage/File/2020-12/Ahyw_whyc_client/Ahyw_whyc_client/Ahyw_whyc_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaService/EurekaService.iml" filepath="$PROJECT_DIR$/EurekaService/EurekaService.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fastdfs_test/Fastdfs_test.iml" filepath="$PROJECT_DIR$/Fastdfs_test/Fastdfs_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hotword_Springcloud_Nacos_ConsumerDemo/Hotword_Springcloud_Nacos_ConsumerDemo.iml" filepath="$PROJECT_DIR$/Hotword_Springcloud_Nacos_ConsumerDemo/Hotword_Springcloud_Nacos_ConsumerDemo.iml" />
@@ -12,10 +13,14 @@
       <module fileurl="file://$PROJECT_DIR$/MybatisPLus/MybatisPLus.iml" filepath="$PROJECT_DIR$/MybatisPLus/MybatisPLus.iml" />
       <module fileurl="file://$PROJECT_DIR$/constuct/constuct.iml" filepath="$PROJECT_DIR$/constuct/constuct.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python/python.iml" filepath="$PROJECT_DIR$/python/python.iml" />
       <module fileurl="file://G:/Code/sample-txc-simple/sample-txc-simple/sample-txc-simple.iml" filepath="G:/Code/sample-txc-simple/sample-txc-simple/sample-txc-simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/service01/service01.iml" filepath="$PROJECT_DIR$/service01/service01.iml" />
       <module fileurl="file://$PROJECT_DIR$/service02/service02.iml" filepath="$PROJECT_DIR$/service02/service02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot_es/springBoot_es.iml" filepath="$PROJECT_DIR$/springBoot_es/springBoot_es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_redis_distributed_lock/springboot_redis_distributed_lock.iml" filepath="$PROJECT_DIR$/springboot_redis_distributed_lock/springboot_redis_distributed_lock.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webserviceSVC/webserviceSVC.iml" filepath="$PROJECT_DIR$/webserviceSVC/webserviceSVC.iml" />
     </modules>
   </component>
 </project>

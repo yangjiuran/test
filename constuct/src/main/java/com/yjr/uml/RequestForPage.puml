@@ -1,0 +1,10 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+interface RequestParam
+class RequestForPage
+class RequestForPage{
+
+}
+RequestParam<|-- RequestForPage
+@enduml

@@ -1,0 +1,25 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+
+interface person
+class student
+class leg
+
+
+person <|--student
+student *-- leg
+
+
+interface person{
+  +{abstract}void : walk()
+}
+class student{
+  -String id
+  +{static}String name
+  +void : walk()
+}
+class leg{
+  +logn length
+}
+@enduml
